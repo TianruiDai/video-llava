@@ -1,0 +1,6 @@
+# 使用已安装的 CUDA 版 PyTorch（当前为 2.14.1+cu130）。
+# 本文件不钉 torch 版本，避免普通 pip install 装成 CPU 轮子。
+transformers==5.18.0
+accelerate==1.15.0
+av==18.1.0
+numpy==2.4.6
